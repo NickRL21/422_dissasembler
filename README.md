@@ -1,2 +1,2 @@
 # 422_dissasembler
-Dissasembler project for CSS 422
+Dissasembler for Motorola 68K assembly designed to run on Easy68k
